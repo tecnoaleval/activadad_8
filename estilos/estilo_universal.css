@@ -1,0 +1,21 @@
+/*Selector Universal*/
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+h1{
+    color: blueviolet;
+    font-family: Arial;
+}
+p.parrafo,h2.parrafo{
+    color: blue;
+}
+
+p#xyz{
+    color: cadetblue;
+}
+pre > p{
+    font-family: Tahoma;
+}
